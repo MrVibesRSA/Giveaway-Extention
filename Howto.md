@@ -24,6 +24,7 @@
     + Giveaway - Clear : !clear, 			Recommended Allow Mods only.
     + Giveaway : !giveaway, 				Recommended Allow Everyone.
     + Giveaway - Enter : !enter, 			Recommended Allow Everyone.
+    + Example: ![alt text](img/4.png "image title")
 + Finally we can run the !giveawaysetup in twitch chat to Complete our setup.
 + The Setup is now complete and you ready to learn how to use the Actions/Commands.
 
