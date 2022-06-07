@@ -22,8 +22,8 @@
     + Giveaway - Run : !rungiveaway, 			Recommended Allow Mods only.
     + Giveaway - Pick Winner : !pickwinner, 		Recommended Allow Mods only.
     + Giveaway - Clear : !clear, 			Recommended Allow Mods only.
-    + Giveaway : !giveaway, 				Recommended Allow Everyone.
     + Giveaway - Enter : !enter, 			Recommended Allow Everyone.
+    + Giveaway : !giveaway, 				Recommended Allow Everyone.
     + Example: ![alt text](img/4.png "image title")
 + Finally we can run the !giveawaysetup in twitch chat to Complete our setup.
 + The Setup is now complete and you ready to learn how to use the Actions/Commands.
@@ -38,5 +38,7 @@
 + Example: ![alt text](img/6.png "image title")
   Sets the duration of the give away for 10 minutes, once the duration is over viewers are unable to enter regardless of the 
   entries they have left.
-* Using the !setentries allows you to spedify the amout of times a Viewer is allowed to enter the giveaway.
++ Using the !setentries allows you to spedify the amout of times a Viewer is allowed to enter the giveaway.
 + Example: ![alt text](img/7.png "image title")
++ Sets the Limit of entries to 5, giving our viers more of a chance to win. The limite can be razed during a giveaway,
+  but lowered is not recomended as this will put new entries at a disatvantage.
