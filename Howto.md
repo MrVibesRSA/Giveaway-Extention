@@ -14,8 +14,17 @@
 + Under "Giveaway - Setup : !giveawaysetup" Sub-Actions you will see two file locations we need to point to our newly
   created files.
 + Example: ![alt text](img/3.png "image title")
-+ Finally we create some Chat Commands  and link them to there actions.
-    + !giveawaysetup - Giveaway - Setup : !giveawaysetup, Recomended Allow user only "The streamer" 
++ Next we create some Chat Commands  and link them to there actions.
+    + Giveaway - Setup : !giveawaysetup,      		Recommended Allow user only "The streamer".
+    + Giveaway - Set Info : !setinfo,         		Recommended Allow Mods only.
+    + Giveaway - Set Duration : !setduration, 		Recommended Allow Mods only.
+    + Giveaway - Set Allowed Entries : !setentries, 	Recommended Allow Mods only.
+    + Giveaway - Run : !rungiveaway, 			Recommended Allow Mods only.
+    + Giveaway - Pick Winner : !pickwinner, 		Recommended Allow Mods only.
+    + Giveaway - Clear : !clear, 			Recommended Allow Mods only.
+    + Giveaway : !giveaway, 				Recommended Allow Everyone.
+    + Giveaway - Enter : !enter, 			Recommended Allow Everyone.
++ Finally we can run the !giveawaysetup in twitch chat to Complete our setup.
 + The Setup is now complete and you ready to learn how to use the Actions/Commands.
 
 ### How to use the Giveaway.
