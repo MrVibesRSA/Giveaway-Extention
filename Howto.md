@@ -28,4 +28,7 @@
 + Finally we can run the !giveawaysetup in twitch chat to Complete our setup.
 + The Setup is now complete and you ready to learn how to use the Actions/Commands.
 
-### How to use the Giveaway.
+### How to use the Giveaway Commands.
++ Now for the Admin to get the Giveaway ready, recommended to do so before stream but can be done while streaming.
++ Using the !setinfo allows you to set the info for the give away keeping in mind twitch's 500 character limit in chat.
++ Example: ![alt text](img/5.png "image title")
