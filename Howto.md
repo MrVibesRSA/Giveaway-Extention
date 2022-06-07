@@ -31,8 +31,12 @@
 ### How to use the Giveaway Commands.
 + Now for the Admin to get the Giveaway ready, recommended to do so before stream but can be done while streaming.
 + Using the !setinfo allows you to set the info for the give away keeping in mind twitch's 500 character limit in chat.
-+ Example:              ![alt text](img/5.png "image title")
++ Example: ![alt text](img/5.png "image title")
 + Using the !setduration "Number" allows you to set the duration the give away will run for in minutes with a minimum of 5 minutes.
   this means you can run  the give away  for 60 min just chat break or for an entire 3 hour (180 minute) stream. You are 
   also able to run the duration multiple times, incase you feel like giving chat another chance to get there entries in.
-+ Example:              ![alt text](img/6.png "image title")
++ Example: ![alt text](img/6.png "image title")
+  Sets the duration of the give away for 10 minutes, once the duration is over viewers are unable to enter regardless of the 
+  entries they have left.
+* Using the !setentries allows you to spedify the amout of times a Viewer is allowed to enter the giveaway.
++ Example: ![alt text](img/7.png "image title")
