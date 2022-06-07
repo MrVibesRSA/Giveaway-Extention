@@ -36,7 +36,7 @@
   this means you can run  the give away  for 60 min just chat break or for an entire 3 hour (180 minute) stream. You are 
   also able to run the duration multiple times, incase you feel like giving chat another chance to get there entries in.
 + Example: ![alt text](img/6.png "image title")
-  Sets the duration of the give away for 10 minutes, once the duration is over viewers are unable to enter regardless of the 
++ Sets the duration of the give away for 10 minutes, once the duration is over viewers are unable to enter regardless of the 
   entries they have left.
 + Using the !setentries allows you or a mod to spedify the amout of times a Viewer is allowed to enter the giveaway.
 + Example: ![alt text](img/7.png "image title")
