@@ -13,4 +13,9 @@
 + Now that our file system is ready we can head over to Streamer.bot and finish up our setup with a few more steps.
 + Under "Giveaway - Setup : !giveawaysetup" Sub-Actions you will see two file locations we need to point to our newly
   created files.
-+ Example: ![alt text](img/3.png "image title") 
++ Example: ![alt text](img/3.png "image title")
++ Finally we create some Chat Commands  and link them to there actions.
+    + !giveawaysetup - Giveaway - Setup : !giveawaysetup, Recomended Allow user only "The streamer" 
++ The Setup is now complete and you ready to learn how to use the Actions/Commands.
+
+### How to use the Giveaway.
