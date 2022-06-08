@@ -48,4 +48,6 @@
   Each time you use the the !rungiveaway command it will run for the the previous set duration unless you have set a new duration.
 + Using the !pickwinner allows you or a mod the randomly pick  a Winner from the Entries.
 + Example: ![alt text](img/9.png "image title")
-+ You are also able to pick multiple winners bay adding a space with a number to the end of the !pickwinner command, as in the example.
++ You are also able to pick multiple winners by adding a space with a number to the end of the !pickwinner command, as in the example
+  it will pick 2 winners from the entry list and add them to the winners list for laters review. It will also notify them in chat with a message 
+  to let them know they won.
