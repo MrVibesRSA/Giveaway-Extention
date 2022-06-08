@@ -1,7 +1,7 @@
 # How to install, setup and working with the commands.
 
 ### Installing the actions.
-+ Copy the raw code from [import code.md](/import code.md) and import it in to Streamer.bot, there should be 9 new Actions now. 
++ Copy the raw code from [Importcode.md](/Importcode.md) and import it in to Streamer.bot, there should be 9 new Actions now. 
 + Example: ![alt text](img/1.png "image title")
 
 ### Setup Instructions.
