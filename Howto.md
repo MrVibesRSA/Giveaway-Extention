@@ -51,3 +51,8 @@
 + You are also able to pick multiple winners by adding a space with a number to the end of the !pickwinner command, as in the example
   it will pick 2 winners from the entry list and add them to the winners list for laters review. It will also notify them in chat with a message 
   to let them know they won.
++ Using the !clear allows you or a mod to clear the entry list, this allows the views to re-enter till their entries are up again.
++ Example: ![alt text](img/10.png "image title")
++ Using the !entry allows your viewers to enter the Giveaway, they can enter one entry at a time or enter all their available entries at once by
+  by adding the approprate number with a space after the !enter command as in the Example.
++ Example: ![alt text](img/11.png "image title")
