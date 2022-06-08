@@ -56,3 +56,5 @@
 + Using the !entry allows your viewers to enter the Giveaway, they can enter one entry at a time or enter all their available entries at once by
   by adding the approprate number with a space after the !enter command as in the Example.
 + Example: ![alt text](img/11.png "image title")
++ Using the !giveaway command allows your viewers to get the info of the giveaway that you previoucly set.
++ Example: ![alt text](img/12.png "image title")
