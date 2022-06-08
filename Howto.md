@@ -33,8 +33,7 @@
 + Using the !setinfo allows you or a mod to set the info for the give away keeping in mind twitch's 500 character limit in chat.
 + Example: ![alt text](img/5.png "image title")
 + Using the !setduration "Number" allows you or a mod to set the duration the give away will run for in minutes with a minimum of 5 minutes.
-  this means you can run  the give away  for 60 min just chat break or for an entire 3 hour (180 minute) stream. You are 
-  also able to run the duration multiple times, incase you feel like giving chat another chance to get there entries in.
+  this means you can run  the give away  for 60 min just chat break or for an entire 3 hour (180 minute) stream.
 + Example: ![alt text](img/6.png "image title")
 + Sets the duration of the give away for 10 minutes, once the duration is over viewers are unable to enter regardless of the 
   entries they have left.
@@ -45,3 +44,8 @@
 + Using the !rungiveaway allows you or a mod to start the giveaway, this will run for the previous set duration. While
   the give away is running viewers able to entre the giveaway till their entries are up.
 + Example: ![alt text](img/8.png "image title")
++ You are also able to run the giveaway multiple times, incase you feel like giving chat another chance to get there entries in.
+  Each time you use the the !rungiveaway command it will run for the the previous set duration unless you have set a new duration.
++ Using the !pickwinner allows you or a mod the randomly pick  a Winner from the Entries.
++ Example: ![alt text](img/9.png "image title")
++ You are also able to pick multiple winners bay adding a space with a number to the end of the !pickwinner command, as in the example.
