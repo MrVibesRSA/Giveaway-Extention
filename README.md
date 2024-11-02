@@ -1,3 +1,5 @@
+#[OUT DATED]
+
 # Giveaway-Extention
  This is a giveaway action for Streamer.bot
 
